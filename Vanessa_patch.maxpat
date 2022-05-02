@@ -38,7 +38,18 @@
 		"style" : "",
 		"subpatcher_template" : "",
 		"assistshowspatchername" : 0,
-		"boxes" : [  ],
+		"boxes" : [ 			{
+				"box" : 				{
+					"id" : "obj-6",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 306.0, 187.0, 150.0, 20.0 ],
+					"text" : "test"
+				}
+
+			}
+ ],
 		"lines" : [  ],
 		"dependency_cache" : [  ],
 		"autosave" : 0
